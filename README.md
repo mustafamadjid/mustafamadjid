@@ -46,7 +46,7 @@ var mustafa = SoftwareEngineer{
 	Name:      "Athaullah Mustafa Madjid",
 	Role:      "Software Engineer",
 	Languages: []string{"Go", "PHP", "JavaScript", "TypeScript", "SQL"},
-	Backend:   []string{"Laravel", "Express.js", "RESTful API"},
+	Backend:   []string{"Laravel", "Express.js", "RESTful API","GORM","Fiber"},
 	Frontend:  []string{"Vue.js", "React.js"},
 	Database:  []string{"PostgreSQL", "MySQL"},
 	DevOps:    []string{"Docker", "Linux", "Git"},
