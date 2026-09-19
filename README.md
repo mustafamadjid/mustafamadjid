@@ -16,7 +16,7 @@
     <br>
     Bachelor of Computer Science at 
     <a href="https://www.itera.ac.id/">Institut Teknologi Sumatera (ITERA)</a>
-    <img src="./Assets/funny.gif" width="30">
+    <img src="./Assets/3.gif" width="30">
   </em>
 </p>
 
