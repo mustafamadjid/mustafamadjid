@@ -16,7 +16,7 @@
     <br>
     Bachelor of Computer Science at 
     <a href="https://www.itera.ac.id/">Institut Teknologi Sumatera (ITERA)</a>
-    <img src="./Assets/3.gif" width="30">
+    <img src="./Assets/funny.gif" width="30">
   </em>
 </p>
 
@@ -24,7 +24,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/mustafamadjid?style=social)
 
 
-  <img align="right" src="./Assets/coding.gif" width="320">
+  <img align="right" src="./Assets/3.gif" width="320">
 
 
 ### A little more about me...
