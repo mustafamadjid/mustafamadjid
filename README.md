@@ -6,29 +6,26 @@
 <p>
   <em>
     Software Engineer specializing in Backend & Web Application Development
-    <img src="./Assets/cat-roll.gif" width="35">
+    <img src="./Assets/cat-roll.gif" width="30">
     <br>
 	Fullstack Engineer Intern at HISSA Syariah Saham Indonesia
-    <img src="./Assets/miles-morales-pixel-art.gif" width="35">
+    <img src="./Assets/miles-morales-pixel-art.gif" width="30">
     <br>
     Former Backend Developer Intern at Public Relations Office of ITERA
-    <img src="./Assets/sleepy-bunny-lovely.gif" width="35">
+    <img src="./Assets/sleepy-bunny-lovely.gif" width="30">
     <br>
     Bachelor of Computer Science at 
     <a href="https://www.itera.ac.id/">Institut Teknologi Sumatera (ITERA)</a>
-    <!-- GIF SPACE: education gif, recommended width="30" -->
+    <img src="./Assets/funny.gif" width="30">
   </em>
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/mustafamadjid?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/mustafamadjid?style=social)
 
-<!-- 
-  RIGHT-SIDE MAIN GIF SPACE
-  
-  Example:
-  <img align="right" src="./Assets/main.gif" width="320">
--->
+
+  <img align="right" src="./Assets/coding.gif" width="320">
+
 
 ### A little more about me...
 <!-- GIF SPACE: small character/coding gif, recommended width="60" -->
