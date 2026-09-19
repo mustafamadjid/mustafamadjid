@@ -36,50 +36,56 @@
 ### A little more about me...
 <!-- GIF SPACE: small character/coding gif, recommended width="60" -->
 
-```javascript
-const mustafa = {
-  name: "Athaullah Mustafa Madjid",
-  role: "Software Engineer",
+```Go
+type SoftwareEngineer struct {
+	Name      string
+	Role      string
+	Languages []string
+	Backend   []string
+	Frontend  []string
+	Database  []string
+	DevOps    []string
+	Focus     []string
+}
 
-  code: [
-    "Go",
-    "PHP",
-    "JavaScript",
-    "TypeScript",
-    "SQL"
-  ],
+var mustafa = SoftwareEngineer{
+	Name: "Athaullah Mustafa Madjid",
+	Role: "Software Engineer",
 
-  backend: [
-    "Golang",
-    "Laravel",
-    "Express.js",
-    "RESTful API"
-  ],
+	Languages: []string{
+		"Go",
+		"PHP",
+		"JavaScript",
+		"TypeScript",
+		"SQL",
+	},
 
-  frontend: [
-    "Vue.js",
-    "React.js"
-  ],
+	Backend: []string{
+		"Laravel",
+		"Express.js",
+		"RESTful API",
+	},
 
-  databases: [
-    "PostgreSQL",
-    "MySQL"
-  ],
+	Frontend: []string{
+		"Vue.js",
+		"React.js",
+	},
 
-  tools: [
-    "Docker",
-    "Git",
-    "Linux",
-    "Ubuntu VPS"
-  ],
+	Database: []string{
+		"PostgreSQL",
+		"MySQL",
+	},
 
-  interests: [
-    "Backend Engineering",
-    "REST API Design",
-    "Database Architecture",
-    "System Design",
-    "Web Application Development"
-  ],
+	DevOps: []string{
+		"Docker",
+		"Linux",
+		"Git",
+	},
 
-  currentFocus: "Building maintainable and scalable backend systems"
+	Focus: []string{
+		"Backend Engineering",
+		"API Design",
+		"Database Design",
+		"System Architecture",
+	},
 }
