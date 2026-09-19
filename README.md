@@ -1,6 +1,6 @@
 <h2>
   Hi there, I'm Athaullah Mustafa Madjid
-  <!-- GIF SPACE: greeting gif, recommended width="50" -->
+  <img src="./Assets/pixel-monkey.gif" width="30">
 </h2>
 
 <p>
