@@ -6,7 +6,7 @@
 <p>
   <em>
     Software Engineer specializing in Backend & Web Application Development
-    <img src="./Assets/cat-roll.gif" width="30">
+    <img src="./Assets/cat-roll.gif" width="100">
     <br>
     
     Fullstack Engineer Intern at HISSA Syariah Saham Indonesia
