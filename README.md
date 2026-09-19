@@ -43,43 +43,22 @@ type SoftwareEngineer struct {
 }
 
 var mustafa = SoftwareEngineer{
-	Name: "Athaullah Mustafa Madjid",
-	Role: "Software Engineer",
-
-	Languages: []string{
-		"Go",
-		"PHP",
-		"JavaScript",
-		"TypeScript",
-		"SQL",
-	},
-
-	Backend: []string{
-		"Laravel",
-		"Express.js",
-		"RESTful API",
-	},
-
-	Frontend: []string{
-		"Vue.js",
-		"React.js",
-	},
-
-	Database: []string{
-		"PostgreSQL",
-		"MySQL",
-	},
-
-	DevOps: []string{
-		"Docker",
-		"Linux",
-		"Git",
-	},
-
-	Focus: []string{
-		"Backend Engineering",
-		"API Design",
-		"Database Design",
-		"System Architecture",
-	},
+	Name:      "Athaullah Mustafa Madjid",
+	Role:      "Software Engineer",
+	Languages: []string{"Go", "PHP", "JavaScript", "TypeScript", "SQL"},
+	Backend:   []string{"Laravel", "Express.js", "RESTful API"},
+	Frontend:  []string{"Vue.js", "React.js"},
+	Database:  []string{"PostgreSQL", "MySQL"},
+	DevOps:    []string{"Docker", "Linux", "Git"},
+	Focus:     []string{"Backend Engineering", "API Design", "Database Design", "System Architecture"},
 }
+```
+
+```
+ __  ___           __        ____     
+   /  |/  /_  _______/ /_____ _/ __/___ _
+  / /|_/ / / / / ___/ __/ __ `/ /_/ __ `/
+ / /  / / /_/ (__  ) /_/ /_/ / __/ /_/ / 
+/_/  /_/\__,_/____/\__/\__,_/_/  \__,_/  
+
+```
