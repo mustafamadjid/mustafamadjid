@@ -10,7 +10,7 @@
     <br>
     
     Fullstack Engineer Intern at HISSA Syariah Saham Indonesia
-    <!-- GIF SPACE: work gif, recommended width="30" -->
+    <img src="./Assets/miles-morales-pixel-art.gif" width="40">
     <br>
     
     Former Backend Developer Intern at Public Relations Office of ITERA
