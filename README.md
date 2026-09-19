@@ -8,7 +8,7 @@
     Software Engineer specializing in Backend & Web Application Development
     <img src="./Assets/cat-roll.gif" width="30">
     <br>
-	Fullstack Engineer Intern at HISSA Syariah Saham Indonesia
+	Fullstack Engineer Intern at <a href="https://hissa.syariahsaham.id/">HISSA Syariah Saham Indonesia</a>
     <img src="./Assets/miles-morales-pixel-art.gif" width="30">
     <br>
     Former Backend Developer Intern at Public Relations Office of ITERA
